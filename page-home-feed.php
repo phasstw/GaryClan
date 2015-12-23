@@ -206,6 +206,11 @@
 					    </div>
 					<?php endif; ?>		
 				</div>
+				<div class="module donate">
+					<h1>Support the Clan</h1>
+					<p>Donations go towards paying for webhosting, site maintenance, minecraft server hosting, and McDonald's for Gary</p>
+					<?php echo do_shortcode('[give_form id="38"]'); ?>
+				</div>
 			</div>
 		</div>
 	</section>

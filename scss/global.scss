@@ -456,6 +456,34 @@ html{
 									}
 								}
 							}
+							&.donate{
+								p{
+									text-align: center;
+									padding-top: 10px;
+								}
+								div.give-donation-amount{
+								
+									span{
+										background: rgba(black,0.5);
+										color: $main-text;
+										border: 0px;
+									}
+									input{
+										background: rgba(black,0.5);
+										border-radius: 4px;
+										color: $main-text;
+										border: 0px !important;
+
+									}
+								}
+								ul{
+									
+									li{
+										width: 40%;
+										display: inline-block;
+									}
+								}
+							}
 							h1{
 								text-shadow: 0 2px 4px rgba(black,0.5);
 								font-size: 2.5em;

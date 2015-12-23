@@ -660,6 +660,21 @@ html body {
                 font-size: 1.5em; }
                 html body section.home-feed div.grid div.col-1-3 div.module.groups ul#groups-list li div.item div.item-title a:hover {
                   text-decoration: underline; }
+        html body section.home-feed div.grid div.col-1-3 div.module.donate p {
+          text-align: center;
+          padding-top: 10px; }
+        html body section.home-feed div.grid div.col-1-3 div.module.donate div.give-donation-amount span {
+          background: rgba(0, 0, 0, 0.5);
+          color: white;
+          border: 0px; }
+        html body section.home-feed div.grid div.col-1-3 div.module.donate div.give-donation-amount input {
+          background: rgba(0, 0, 0, 0.5);
+          border-radius: 4px;
+          color: white;
+          border: 0px !important; }
+        html body section.home-feed div.grid div.col-1-3 div.module.donate ul li {
+          width: 40%;
+          display: inline-block; }
         html body section.home-feed div.grid div.col-1-3 div.module h1 {
           text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
           font-size: 2.5em;
